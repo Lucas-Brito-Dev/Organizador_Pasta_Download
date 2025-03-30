@@ -2,7 +2,7 @@
 name = "organizador"
 version = "0.1.0"
 description = ""
-authors = ["Luhluh1993 <luckas.std@gmail.com>"]
+authors = ["Lucas-Brito-Dev <lucasbrito_dev@outlook.com.br>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
